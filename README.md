@@ -1,3 +1,4 @@
 # hello-world
 update 1
-Update from dev1
+
+merging updates from dev1 and dev2
